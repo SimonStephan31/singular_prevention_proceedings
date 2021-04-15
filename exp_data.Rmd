@@ -1,0 +1,48 @@
+---
+title: "Experimental data"
+---
+
+<style>
+body {
+    font-family: 'Muli';
+    font-size: 14px;
+}
+</style>
+
+<h2><font style="color:lightgrey;"> Data Sets </font></h1>
+
+- Experimental data as txt.-file (delimiter = tab): [download](data_files/experimental_data.txt)
+- Experimental data as xlsx.-file (Microsoft Excel): [download](data_files/experimental_data.xlsx)
+
+*****
+
+#### Data set information (Read me)
+
+The data set contains the following columns: 
+
+- _sID_: an anonymous subject identifier
+
+- _Query_: factor coding whether subjects were asked general preventive strength queries or singular prevention queries (varied between subjects)
+
+- _Preventer_: factor coding whether subjects saw the data sets in which the preventive cause was sufficient or necessary (varied between subjects)
+
+- _DataSet_: factor coding the different contingency data sets that subjects were shown (varied within-subject in random order)
+
+- _rating_: subjects' preventive-strength vs. singular-prevention ratings (on a slider between 0 and 100)
+
+- _justification_: subjects' explanations for each rating they gave
+
+- _cluster_: the model cluster to which this subject was assigned
+
+- _Attention_Confirmation_: subjects were asked to confirm that they are willing to pay attention during the study. 1 = "I confirm that I will take my participation in this study seriously." and 2 = "I confirm that I will not take my participation in this study seriously."
+
+- _Age_: subjects' age in year 
+
+- _Sex_: subjects' sex. 1 = male, 2 = female, 3 = other, 4 = prefer not to say.
+
+- _Technical_issues_: subjects' reports of any technical difficulties that they might have encountered in the course of the study. 
+
+- _Duration_: time (in seconds) that it took subjects to finish the study.
+
+
+

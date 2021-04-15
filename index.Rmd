@@ -1,0 +1,14 @@
+---
+title: "Evaluating general and actual causal prevention"
+---
+
+<br>
+
+This website contains the experimental materials and data.
+
+Please use the navigation bar to go to the different animations that were shown in the experiment.
+
+The experimental data sets can be downloaded [here](exp_data.html).
+
+A print version of the online experiment can be downloaded [here](data_files/print_version_anonymized.pdf).
+
